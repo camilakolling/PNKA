@@ -1,6 +1,6 @@
 # Pointwise Normalized Kernel Alignment (PNKA)
 
-In [Investigating the Effects of Fairness Interventions Using Pointwise Representational Similarity](https://arxiv.org/abs/2305.19294) we propose Pointwise Normalized Kernel Alignment (PNKA) as an instance of a measure that quantifies how similarly an *individual* input is represented in two representation spaces.
+In [Investigating the Effects of Fairness Interventions Using Pointwise Representational Similarity](https://openreview.net/pdf?id=CkVlt2Qgdb) (TMLR, 2025) we propose Pointwise Normalized Kernel Alignment (PNKA) as an instance of a measure that quantifies how similarly an *individual* input is represented in two representation spaces.
 
 ## Installation
 
@@ -41,10 +41,14 @@ aggregated_similarity = pointwise_similarities.mean()
 If you find our work useful, please cite it:
 
 ```
-@article{kolling2023pointwise,
-  title={Pointwise Representational Similarity},
-  author={Kolling, Camila and Speicher, Till and Nanda, Vedant and Toneva, Mariya and Gummadi, Krishna P},
-  journal={arXiv preprint arXiv:2305.19294},
-  year={2023}
+@article{
+  kolling2025investigating,
+  title={Investigating the Effects of Fairness Interventions Using Pointwise Representational Similarity},
+  author={Camila Kolling and Till Speicher and Vedant Nanda and Mariya Toneva and Krishna P. Gummadi},
+  journal={Transactions on Machine Learning Research},
+  issn={2835-8856},
+  year={2025},
+  url={https://openreview.net/forum?id=CkVlt2Qgdb},
+  note={}
 }
 ```

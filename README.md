@@ -1,6 +1,6 @@
-# Pointwise Representation Similarity
+# Pointwise Normalized Kernel Alignment (PNKA)
 
-In [Pointwise Representation Similarity](https://arxiv.org/abs/2305.19294) we propose Pointwise Normalized Kernel Alignment (PNKA) as an instance of a measure that quantifies how similarly an *individual* input is represented in two representation spaces.
+In [Investigating the Effects of Fairness Interventions Using Pointwise Representational Similarity](https://arxiv.org/abs/2305.19294) we propose Pointwise Normalized Kernel Alignment (PNKA) as an instance of a measure that quantifies how similarly an *individual* input is represented in two representation spaces.
 
 ## Installation
 
